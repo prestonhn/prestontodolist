@@ -1,5 +1,5 @@
 # Preston's To-Do List
-React Application that allows uses to create a simple-to-do list.
+React-based To-do application. Incorporating an intuitive user interface with features for adding and deleting tasks. Integrated “react-icons” for enhanced interactivity. Created a personalized footer showcasing social media links.
 
 ## Available Scripts
 
