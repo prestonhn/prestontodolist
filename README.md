@@ -1,6 +1,5 @@
-# Getting Started with Create React App 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Preston's To-Do List
+React Application that allows uses to create a simple-to-do list.
 
 ## Available Scripts
 
